@@ -1,0 +1,17 @@
+{
+    "name": "demirel/qr-code",
+    "autoload": {
+        "psr-4": {
+            "QrCode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yunus Demirel",
+            "email": "ydemirel1964@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^4.8"
+    }
+}
